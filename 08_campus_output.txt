@@ -1,0 +1,23 @@
+
+1 Add student  2 Attendance  3 Marks  4 Event  5 Allocate resource  6 Summary  0 Exit
+Choice: ID: Name: Student added
+
+1 Add student  2 Attendance  3 Marks  4 Event  5 Allocate resource  6 Summary  0 Exit
+Choice: Student ID: Present? (y/n): Attendance recorded
+
+1 Add student  2 Attendance  3 Marks  4 Event  5 Allocate resource  6 Summary  0 Exit
+Choice: Student ID: Mark (0-100): Mark recorded
+
+1 Add student  2 Attendance  3 Marks  4 Event  5 Allocate resource  6 Summary  0 Exit
+Choice: Student ID: Event name: Event registered
+
+1 Add student  2 Attendance  3 Marks  4 Event  5 Allocate resource  6 Summary  0 Exit
+Choice: Resource name: Quantity: Resource allocated
+
+1 Add student  2 Attendance  3 Marks  4 Event  5 Allocate resource  6 Summary  0 Exit
+Choice: Students: 1
+S1 Asha attendance: 100.0 %; average: 85.0 ; events: ['Science Fair']
+Resources: [['Rooms', 3], ['Projectors', 3]]
+
+1 Add student  2 Attendance  3 Marks  4 Event  5 Allocate resource  6 Summary  0 Exit
+Choice: 

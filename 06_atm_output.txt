@@ -1,0 +1,8 @@
+deposit 500 ACCEPTED; balance: 1500
+withdrawal 200 ACCEPTED; balance: 1300
+withdrawal 200 ACCEPTED; balance: 1100
+withdrawal 200 ACCEPTED; balance: 900
+ALERT: three identical consecutive outgoing attempts
+transfer 2000 REJECTED: insufficient funds
+deposit -1 REJECTED: invalid operation or amount
+Final balance: 900

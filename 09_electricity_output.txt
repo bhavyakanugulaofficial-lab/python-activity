@@ -1,0 +1,6 @@
+A bill: 189.0 discrepancy: 0.0
+B bill: 800 discrepancy: 0.0
+C bill: 400 discrepancy: 0.0
+Rank: B 250 units
+Rank: C 150 units
+Rank: A 80 units

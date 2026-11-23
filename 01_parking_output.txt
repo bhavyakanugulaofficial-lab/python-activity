@@ -1,0 +1,3 @@
+Parking fee: 100
+Invalid interval: Invalid time, interval, or category
+Daily cap and penalty: 300

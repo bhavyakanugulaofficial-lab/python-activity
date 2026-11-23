@@ -1,0 +1,6 @@
+A shortages beds/staff/equipment: 0 0 1
+B shortages beds/staff/equipment: 3 0 0
+C shortages beds/staff/equipment: 0 0 0
+Priority: B urgent cases: 3
+Priority: A urgent cases: 2
+Priority: C urgent cases: 1

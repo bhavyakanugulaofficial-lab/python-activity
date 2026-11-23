@@ -1,0 +1,4 @@
+South allocated: [7, 6] unmet: [0, 0]
+North allocated: [3, 2] unmet: [3, 3]
+East allocated: [0, 0] unmet: [2, 3]
+Stock remaining: [0, 0]

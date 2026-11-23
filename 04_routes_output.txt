@@ -1,0 +1,4 @@
+Segment 1 : 5.0 km
+Segment 2 : 12.0 km
+Longest segment: 2 distance: 12.0 km
+At least two points required

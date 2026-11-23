@@ -1,0 +1,7 @@
+Rice period 1 change: 20.0 %
+Rice period 2 change: -25.0 %
+Rice max absolute change: 25.0 % at period 2 ; flagged: True
+Milk period 1 change: 10.0 %
+Milk period 2 change: 9.09 %
+Milk max absolute change: 10.0 % at period 1 ; flagged: False
+Oil invalid price history
