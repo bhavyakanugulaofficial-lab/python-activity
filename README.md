@@ -1,5 +1,18 @@
 # Python Activity-Based Learning
 
+## Student details
+
+| Field | Details |
+| --- | --- |
+| Name | BHAVYA KANUGULA |
+| Section | 2 |
+| Year | 1 |
+| NIAT ID | N26V01A0169 |
+
+## Activity PDF
+
+[View or download the Python activity PDF](python-activity.pdf)
+
 Ten independent Python 3 case studies using introductory constructs. Open a case-study document for its problem statement, objectives, assumptions, algorithm, flowchart, pseudocode, source, tests, output image and conclusion.
 
 ## Run
